@@ -16,10 +16,6 @@ import tests
 import os.path
 import violations
 
-# Uncomment for the extra credit
-#import endorsements
-#import inspections
-
 
 def discover_violations(directory,output):
     """
